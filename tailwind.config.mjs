@@ -10,6 +10,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "primary-green": "#004733",
+        "secondary-green": "#1EE07F",
       },
       fontSize: {
         xs: "0.75rem",

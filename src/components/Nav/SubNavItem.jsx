@@ -1,5 +1,6 @@
 import { MoveRight } from "lucide-react";
 import Link from "next/link";
+import { useState } from "react";
 
 const SubNavItem = (subNav) => {
   const [hover, setHover] = useState(false);
