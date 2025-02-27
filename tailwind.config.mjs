@@ -12,6 +12,7 @@ export default {
         foreground: "var(--foreground)",
         "primary-green": "#004733",
         "secondary-green": "#1EE07F",
+        "tertiary-green": "#017848",
       },
       fontSize: {
         xs: "0.75rem",
